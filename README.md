@@ -43,7 +43,7 @@
 # Solutions:
 -Adjustments made to hyperparameters, including learning rate and dropout rate.
 -Batch normalization and dropout layers added to enhance model generalization and mitigate overfitting.
--Conclusion:
+# Conclusion:
 -The model achieved 100% accuracy on both training and validation sets after 4 epochs.
 -Hyperparameter tuning significantly improved model performance.
 -Batch normalization and dropout played crucial roles in preventing overfitting.
