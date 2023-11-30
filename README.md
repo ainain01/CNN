@@ -1,4 +1,4 @@
-# CNN
+# DeepVisionNet_CNN
 # Report:
 # Approach:
 # Data Preprocessing:
